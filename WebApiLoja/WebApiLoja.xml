@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiLoja</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiLoja.Controllers.CorController.listaCor">
+            <summary>
+            Este serviço permite obter uma lista de Cores
+            </summary>
+            <returns>Retorna status ok e lista de Cores</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.GradeController.listaGrade">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.GradeController.inserirGrade(WebApiLoja.Model.GradeModel)">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.LocalizacaoController.listaLocalizacao">
+            <summary>
+            Este serviço permite obter uma lista de Localizacao
+            </summary>
+            <returns>Retorna status ok e lista de Localizacao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.MarcaController.listaMarca">
+            <summary>
+            Este serviço permite obter uma lista de Marcas
+            </summary>
+            <returns>Retorna status ok e lista de Marcas</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.ModeloController.listaModelo">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.ModeloController.inserirModelo(WebApiLoja.Model.ModeloModel)">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.SecaoController.listaSecao">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.SecaoController.inserirSecao(WebApiLoja.Model.SecaoModel)">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+        <member name="M:WebApiLoja.Controllers.UnidadeController.listaUnidade">
+            <summary>
+            Este serviço permite obter uma lista de Secao
+            </summary>
+            <returns>Retorna status ok e lista de Secao</returns>
+        </member>
+    </members>
+</doc>
